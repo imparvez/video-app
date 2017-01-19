@@ -1,0 +1,66 @@
+// import url('https://fonts.googleapis.com/css?family=Roboto');
+
+// * {
+// 	font-family: 'Roboto', sans-serif;
+// }
+
+// .search-bar {
+// 	margin: 20px;
+// 	text-align: center;
+// 	background-color: #1f2533;
+// 	padding: 20px 0;
+// }
+
+// .search-bar input {
+// 	width: 75%;
+// }
+
+// .video-item img {
+// 	max-width: 64px;
+// }
+
+// .video-detail { margin-bottom: 25px; }
+
+// .video-detail .details {
+// 	margin-top: 10px;
+// 	padding: 10px;
+// 	border: 1px solid #ddd;
+// 	border-radius: 4px;
+// }
+
+// .list-group-item {
+// 	cursor: pointer;
+// }
+
+// .list-group-item:hover {
+// 	background-color: #eee;
+// }
+
+// .video-detail,
+// .list-group {
+// 	display: inline-block !important;
+// 	vertical-align: top !important;
+// }
+
+// .list-group { float: right; }
+
+// iframe {
+// 	width: 100%;
+// 	height: 300px;
+// }
+
+// .media-heading {
+// 	margin-left: 5px;
+// 	font-size: 12px;
+// }
+
+// .video-title {
+// 	font-size: 16px;
+// 	font-weight: 700;
+// }
+
+
+// .video-description {
+// 	font-size: 12px;
+// 	font-weight: 400;
+// }
